@@ -157,13 +157,17 @@ body {
   opacity: 1;
 }
 
+.size_tool {
+  padding-bottom: 15px
+}
+
 .slider_background {
   width: 100%;
   height: 8px;
   background-color: rgba(0, 0, 0, 0.1);
   border-radius: 5px;
   position: relative;
-  margin-bottom: 20px;
+  margin: 6px 0;
 }
 
 .slider_foreground {
